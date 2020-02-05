@@ -1,4 +1,4 @@
-# Responsive-design
+# Orginal-portfolio
 
 
 ##making a responsive Portfolio with boostrap documentation.
@@ -6,7 +6,7 @@
 
 ### Link :
 
-*Link to my protfolio:*(https://arvin-m.github.io/Responsive-design/)
+*Link to my protfolio:*(https://arvin-m.github.io/Portfolio)
 
 
 
