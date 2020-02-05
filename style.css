@@ -1,0 +1,96 @@
+  /* icon */
+  .fab{
+    font-size: 25px;
+}
+.fas{
+    font-size: 22px;
+}
+.far{
+    font-size: 25px;
+
+}
+.btnBcolor{
+    background-color: #ff006a;
+    color: white;
+}
+
+.btn-info{
+    margin-top: 15px;
+    border-color:#17b88b;
+    background-color: #17b88b;
+}
+.paragraph{
+    line-height: 36px;
+    text-align: justify;
+}
+.navbar{
+    background-color: #26b5cc;
+}
+
+h3{
+    padding: 10px;
+    /* border-bottom: gainsboro solid 2px; */
+    width:100%;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(25, 25, 26);
+
+}
+h1{
+    font-family: 'Audiowide', cursive;
+    color: whitesmoke;
+    
+}
+.navbar-brand{
+    font-size:30px;
+
+}
+#header-p{
+    font-family: 'Raleway', sans-serif;
+    color: whitesmoke;
+    /* position: relative; */
+    /* right: 317px; */
+    /* top: 11px; */
+
+}
+#quiz-body{
+       
+    display: none;
+}
+#calender-body{
+   
+    display: none;
+
+}
+#weather-body{
+   
+    display: none;
+
+}
+#first-main-container{
+    /* margin-top: 70px; */
+}
+#space{
+    padding: 40px;
+}
+h5{
+    color: white;
+
+}
+
+h1{
+
+}
+h3{
+
+}
+.copyRight{
+    color: white;
+    font-size: 11px;
+}
+span{
+    margin:10px;
+}
+footer{
+    padding: 20px;
+    width: 100%;
+}
