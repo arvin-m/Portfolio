@@ -29,7 +29,6 @@
 
 h3{
     padding: 10px;
-    /* border-bottom: gainsboro solid 2px; */
     width:100%;
     font-family: 'Raleway', sans-serif;
     color: rgb(25, 25, 26);
@@ -47,9 +46,10 @@ h1{
 #header-p{
     font-family: 'Raleway', sans-serif;
     color: whitesmoke;
-    /* position: relative; */
-    /* right: 317px; */
-    /* top: 11px; */
+    
+}
+#hicker-body{
+    display: none;
 
 }
 #quiz-body{
@@ -66,8 +66,8 @@ h1{
     display: none;
 
 }
-#first-main-container{
-    /* margin-top: 70px; */
+#burger-body{
+    display: none;
 }
 #space{
     padding: 40px;
@@ -77,12 +77,6 @@ h5{
 
 }
 
-h1{
-
-}
-h3{
-
-}
 .copyRight{
     color: white;
     font-size: 11px;
