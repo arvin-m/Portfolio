@@ -69,6 +69,10 @@ h1{
 #burger-body{
     display: none;
 }
+#temPl-body{
+    display: none;
+
+}
 #space{
     padding: 40px;
 }

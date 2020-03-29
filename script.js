@@ -1,14 +1,33 @@
 
-// let hickerBtn =document.getElementById("hicker");
-$("#tempEnBtn").click(function(event){
+$("#shopBtn").click(function(event){
     event.preventDefault();
-
-    $("#temPl-body").show();
+    $("#stop-shop-body").show();
+    $("#temPl-body").hide();
     $("#burger-body").hide();
     $("#hicker-body").hide();
     $("#weather-body").hide();
     $("#calender-body").hide();
     $("#quiz-body").hide();
+    $("#tempEnBtn").attr("class","nav-link");
+    $("#burgerBtn").attr("class","nav-link");
+    $("#hickerBtn").attr("class","nav-link");
+    $("#weatherBtn").attr("class","nav-link");    
+    $("#calenderBtn").attr("class","nav-link");
+    $("#quizBtn").attr("class","nav-link");
+    $(this).attr("class","nav-link btnBcolor");    
+    
+    
+});
+$("#tempEnBtn").click(function(event){
+    event.preventDefault();
+    $("#temPl-body").show();
+    $("#stop-shop-body").hide();
+    $("#burger-body").hide();
+    $("#hicker-body").hide();
+    $("#weather-body").hide();
+    $("#calender-body").hide();
+    $("#quiz-body").hide();
+    $("#shopBtn").attr("class","nav-link");
     $("#burgerBtn").attr("class","nav-link");
     $("#hickerBtn").attr("class","nav-link");
     $("#weatherBtn").attr("class","nav-link");    
