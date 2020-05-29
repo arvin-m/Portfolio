@@ -1,7 +1,7 @@
 # Orginal-portfolio
 
 
-##making a responsive Portfolio with boostrap documentation.
+Making a responsive Portfolio with boostrap CSS framework.
 
 
 ### Link :
